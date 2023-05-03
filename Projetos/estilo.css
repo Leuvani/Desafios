@@ -1,0 +1,12 @@
+#vetor{
+    height: 50px;
+    width: 150px;
+    border-radius: 5px;
+    border: solid gray 2px;
+}
+body{
+    background-image: url(projetos.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    color: white;
+}

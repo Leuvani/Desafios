@@ -1,0 +1,19 @@
+#inform{
+    width: 100px;
+    height: 50px;
+    border-radius: 5px;
+    border: solid gray 2px;
+}
+#gerais, #elenco{
+    display: flex;
+    justify-content: space-around;
+}
+.pessoas{
+    justify-content: center;
+}
+body{
+    background-image: url(E815FF796C22D405AAB02BEDF38C23F48B6_cinema.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    color: white;
+}
